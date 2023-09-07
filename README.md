@@ -10,7 +10,7 @@ The goal of this research project is to investigate and validate the feasibility
 
 ## Current Status
 
-![Scrum Planning and Status](Figures/Research Status.png)
+![Scrum Planning and Status]('Figures/Research Status.png')
 
 *Scrum planning and status meeting for the research project.*
 
