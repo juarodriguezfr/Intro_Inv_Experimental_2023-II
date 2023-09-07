@@ -1,27 +1,16 @@
-# Intro_Inv_Experimental_2023-II
-
-**Proyect: ** Earth and Satellite measurement to test Starndard Candles accuracy
-**Author: ** Judol Alejandro Rodriguez
-
-**Overview: **
-
-**Objectives: **
-
-**Project Status: **
-
 # Research Project: Standard Candles Distance Measurement with Earth Luminous Sources
 
 ## Overview
 
 This repository contains documents and resources related to our research project focused on testing the standard candles distance measurement method using Earth luminous sources like lightbulbs, cameras, and satellite images.
 
-## Project Description
+## Description
 
-The goal of this research project is to investigate and validate the feasibility of using Earth luminous sources, such as lightbulbs, in combination with cameras and satellite images for distance measurement using the standard candles method. This innovative approach has the potential to revolutionize distance measurement techniques, particularly in scenarios where traditional methods are impractical or inaccessible.
+The goal of this research project is to investigate and validate the feasibility of using Earth luminous sources, such as lightbulbs, in combination with cameras and satellite images for distance measurement using the standard candles method. This innovative approach has the potential to provide an educative approach to the astronomical distance measurement techniques, particularly in scenarios where traditional methods are impractical or inaccessible, besides, using other complementary data such as satellite image to cross the information obtained. The project has the potential to evolve towards a light pollution research.
 
-## Project Image
+## Current Status
 
-![Scrum Planning and Status](image.jpg)
+![Scrum Planning and Status]((https://github.com/juarodriguezfr/Intro_Inv_Experimental_2023-II/blob/main/Figures/Research%20Status.png)
 
 *Caption: Scrum planning and status meeting for the research project.*
 
@@ -41,14 +30,10 @@ The goal of this research project is to investigate and validate the feasibility
 
 ## Contributors
 
-- John Doe (Lead Researcher) - [GitHub Profile](https://github.com/johndoe)
-- Jane Smith (Data Analyst) - [GitHub Profile](https://github.com/janesmith)
-- Alice Johnson (Project Manager) - [GitHub Profile](https://github.com/alicejohnson)
+- Judol Rodríguez (Lead Researcher) - [GitHub Profile](https://github.com/juarodriguezfr))
 
 ## License
 
 This project is licensed under the [MIT License](LICENSE.md).
 
 ---
-
-Feel free to update and expand this Markdown file with more details, links, and any additional content relevant to your research project.
