@@ -21,9 +21,9 @@ The goal of this research project is to investigate and validate the feasibility
 
 ## Documents
 
-1. [Project Proposal](Docs/Project_Proposal.ipynb) - The initial proposal outlining the project's objectives, methodology, and expected outcomes.
+1. [Project Proposal](docs/project-proposal.pdf) - The initial proposal outlining the project's objectives, methodology, and expected outcomes.
 
-2. [Research Plan](Docs/Research_Plan.ipynb) - A detailed plan of the research activities, including experimental setup, data collection, and analysis methods.
+2. [Research Plan](docs/research-plan.pdf) - A detailed plan of the research activities, including experimental setup, data collection, and analysis methods.
 
 3. [Data Collection](docs/data-collection.md) - Documentation on how data from Earth luminous sources, cameras, and satellite images are collected and processed.
 
