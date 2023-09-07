@@ -10,7 +10,7 @@ The goal of this research project is to investigate and validate the feasibility
 
 ## Current Status
 
-![Scrum Planning and Status](https://github.com/juarodriguezfr/Intro_Inv_Experimental_2023-II/blob/main/Figures/Research%20Status.png)
+![Scrum Planning and Status](Figures/Research Status.png)
 
 *Caption: Scrum planning and status meeting for the research project.*
 
