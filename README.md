@@ -10,9 +10,14 @@ The goal of this research project is to investigate and validate the feasibility
 
 ## Current Status
 
-![Scrum Planning and Status]('Figures/Research Status.png')
+<div style="text-align:center">
+  <img src="Figures/Research Status.png" alt="Scrum Planning and Status" />
+</div>
 
-*Scrum planning and status meeting for the research project.*
+<div style="text-align:center">
+  <i>Scrum planning and status meeting for the research project.</i>
+</div>
+
 
 ## Documents
 
