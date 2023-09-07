@@ -12,7 +12,7 @@ The goal of this research project is to investigate and validate the feasibility
 
 ![Scrum Planning and Status](Figures/Research Status.png)
 
-*Caption: Scrum planning and status meeting for the research project.*
+<c>*Scrum planning and status meeting for the research project.*</c>
 
 ## Documents
 
@@ -30,7 +30,7 @@ The goal of this research project is to investigate and validate the feasibility
 
 ## Contributors
 
-- Judol Rodríguez (Lead Researcher) - [GitHub Profile](https://github.com/juarodriguezfr))
+- Judol Rodríguez (Lead Researcher) - [GitHub Profile](https://github.com/juarodriguezfr)
 
 ## License
 
